@@ -6,7 +6,7 @@ echo ""
 root=$(pwd)
 
 
-choice=4
+choice=5
 	echo "1. Run in pm2 with Auto Restart normally without updating NadekoBot."
 	echo "2. Run in pm2 with Auto Restart and update NadekoBot."
 	echo "3. Run NadekoBot in pm2 normally without Auto Restart."
